@@ -8,7 +8,7 @@ sayi = []
 sayiS = ""
 for i in range(1,1501):
     sayi.append(i)
-    sayiS += i
+    sayiS += str(i)
 tekrar = sayiS.count("55")
 print(f"55 sayısı 1 ile 1500 arasında {tekrar} kez tekrar ediyor.")
 
