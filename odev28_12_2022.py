@@ -1,5 +1,5 @@
 # ödev 1: 1 den 1500 e kadar kaç kere 55 yan yana yazılır?
-# ödev 2: while tru ile istenildiği kadar sayı toplayan ya da sayı çarpan bir program yapınız.
+# ödev 2: while true döngüsü ile istenildiği kadar sayı toplayan ya da sayı çarpan bir program yapınız.
 # ödev 3: 250 faktöriyelin içinde 222 sayısı kaç kez tekrar ediyor?
 # Tarih : 28.12.2022  Hazırlayan: Ege Kızılkaya
 
