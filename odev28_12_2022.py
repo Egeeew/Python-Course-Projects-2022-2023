@@ -5,10 +5,11 @@
 
 # ödev 1
 sayi = []
+sayiS = ""
 for i in range(1,1501):
     sayi.append(i)
-sayi = str(sayi)
-tekrar = sayi.count("55")
+    sayiS += i
+tekrar = sayiS.count("55")
 print(f"55 sayısı 1 ile 1500 arasında {tekrar} kez tekrar ediyor.")
 
 # ödev 2
