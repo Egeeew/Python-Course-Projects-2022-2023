@@ -1,3 +1,4 @@
+# 02.02.2023 ödevi - Ege Kızılkaya
 import time, random
 
 puan = 0
